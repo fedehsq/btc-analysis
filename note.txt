@@ -1,0 +1,17 @@
+DOMANDA 2 (INVALID TRANSACTIONS)
+1. controllare che ad ogni output_id nel file di inputs corrisponda un solo id nel file di output OK
+
+DOMANDA 3
+1. non solo semplice somma delle transazioni per blocco,
+ma somma delle transazioni per blocco il cui output_id non compare nel file di input come output_id OK
+
+DOMANDA 4
+1. Controllare nel sito di bitcoin.com e tramite il block id posso vedere quante transazioni ho in un mese
+2. Come grafico usare comulative distribution function (CDF) per vedere quante transazioni ho in un mese
+(numero di blocchi, dimensioni del blocco (n transazioni))  
+
+DOMANDA 5
+1. Disegnare gaussiana in cui rappresento quanto un miner ha guadagnato (asse x = numero di miner, asse y = guadagno)
+
+DOMANDA 6
+1. Calcolare input - output per ogni transazione e la fee è quando il valore di input - output è maggiore di 0
