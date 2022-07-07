@@ -1,5 +1,5 @@
 ## Analysis of Bitcoin Transactions
-Starting from three different sources of data, three CSV files, Transactions, Inputs and Outputs, that represent an abstraction of the Bitcoin transactions.  
+The data set contains three CSV files, Transactions, Inputs and Outputs, that represent an abstraction of the Bitcoin transactions.  
 The dataset starts from the genesis block and ends at height 100,001, which is the block mined on 29-12-2010.  
 The data is slightly modified with respect to the original Bitcoin blockchain, and some transactions have been removed.  
 Other than that, this data is an almost entirely accurate Bitcoin dataset, so the results that you will obtain would provide you some insights on a real cryptocurrency.
